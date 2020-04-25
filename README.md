@@ -1,3 +1,3 @@
 # Git_course
 road to my dream
-## project notes:
+## project notes: pull request
